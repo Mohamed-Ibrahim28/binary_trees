@@ -54,5 +54,4 @@ typedef struct binary_tree_s heap_t;
 
 ## Authors :black_nib:
 
-* __Yousef Bakier__ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img height="" src="https://img.shields.io/static/v1?label=&message=GitHub&color=181717&logo=GitHub&logoColor=f2f2f2&labelColor=2F333A" alt="Github">](https://github.com/Y-Baker)
-* __MohamedElftah__&nbsp;&nbsp;&nbsp;&nbsp; [<img height="" src="https://img.shields.io/static/v1?label=&message=GitHub&color=181717&logo=GitHub&logoColor=f2f2f2&labelColor=2F333A" alt="Github">](https://github.com/MohamedElshafae)
+Mohamed.IB
